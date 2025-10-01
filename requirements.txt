@@ -10,3 +10,4 @@ xgboost
 pdfplumber
 python-docx
 gunicorn
+sentence-transformers
