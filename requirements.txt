@@ -1,0 +1,11 @@
+Flask
+flask-cors
+python-dotenv
+requests
+together
+werkzeug
+numpy
+joblib
+xgboost
+pdfplumber
+python-docx
